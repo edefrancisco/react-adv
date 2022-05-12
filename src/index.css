@@ -25,7 +25,7 @@ nav {
   height: 100vh;
   margin-right: 15px;
   text-align: center;
-  width: 250px;
+  min-width: 5rem;
 }
 nav ul {
   align-items: center;
